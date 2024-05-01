@@ -7,3 +7,17 @@ Jcatalog/src/main/java/br/com/geisson/sales/catalog/CatalogApplication.java,7\2
 Ucatalog/src/main/java/br/com/geisson/sales/catalog/repositories/ProductRepostory.java,a\1\a1414bad316d1114ac90c421e69f56b7cdfc8d7e
 „
 Tcatalog/src/main/java/br/com/geisson/sales/catalog/controller/ProductController.java,5\b\5bf213ae54a07795a931ac42b52143b1c6ce3315
+w
+Gcatalog/src/main/java/br/com/geisson/sales/catalog/models/Category.java,b\4\b4d9afe4af1cb753a18523f654ba6a8838c254c9
+?
+catalog/HELP.md,a\9\a91f87ce1ef5ef3a3a683696d4bcfddb29cc73dc
+€
+Pcatalog/src/main/java/br/com/geisson/sales/catalog/services/CategoryService.java,b\e\bef8de23de60de3ea39399919ffae1745a2f92a6
+v
+Fcatalog/src/main/java/br/com/geisson/sales/catalog/models/Product.java,e\7\e7633cba8360c9332501a88a6346defb9096df1a
+…
+Ucatalog/src/main/java/br/com/geisson/sales/catalog/controller/CategoryController.java,8\b\8b06f2308fcbe17d1762394aefd3560244d8f5bb
+‡
+Wcatalog/src/main/java/br/com/geisson/sales/catalog/repositories/CategoryRepository.java,4\f\4f8bc5c48228d6732c48f830a31629f1ea3576b1
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

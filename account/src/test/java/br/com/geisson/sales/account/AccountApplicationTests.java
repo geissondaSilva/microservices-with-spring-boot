@@ -1,10 +1,10 @@
-package br.com.geisson.sales.catalog;
+package br.com.geisson.sales.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CatalogApplicationTests {
+class AccountApplicationTests {
 
 	@Test
 	void contextLoads() {
